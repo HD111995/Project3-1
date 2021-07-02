@@ -318,4 +318,25 @@ padding-bottom:1px;
            
            
         }
+        .art-sec-5>a:hover{
+            text-decoration-line: underline;
+        }
+        .sec-6{
+            text-align:center;
+            padding:200px auto;
+        }
+        .art-sec-6{
+         padding:100px auto;
+        }
+        .art-sec-6>a{
+            color:black;
+            font-family:'Didact Gothic', sans-serif;
+            font-size:150px;
+            text-decoration-line: none;
+            padding:100px auto;
+
+        }
+        .art-sec-6>a:hover{
+            text-decoration-line:underline;
+        }
 
